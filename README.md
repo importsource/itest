@@ -5,9 +5,9 @@ a simple test bar
 ###Maven
 ```xml
 <dependency>
-			<groupId>com.importsource.itest</groupId>
-			<artifactId>importsource-itest</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+	<groupId>com.importsource.itest</groupId>
+	<artifactId>importsource-itest</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
